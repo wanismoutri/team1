@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_text
       value: The Great Wall of China
       objectReference: {fileID: 0}
+    - target: {fileID: 560112899620835705, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.003
+      objectReference: {fileID: 0}
     - target: {fileID: 1233008568357204229, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Name
       value: prefab_exhibit1
