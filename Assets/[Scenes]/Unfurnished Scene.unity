@@ -130,6 +130,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: The Great Wall of China
+      objectReference: {fileID: 0}
     - target: {fileID: 1233008568357204229, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Name
       value: prefab_exhibit1
