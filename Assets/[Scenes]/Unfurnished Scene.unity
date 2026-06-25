@@ -708,6 +708,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: Grand Canyon
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -823,7 +827,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1e3db1d90c2caa7469e728357df9b5e3, type: 2}
+      objectReference: {fileID: 2100000, guid: 08f408eb24d9d4968bd631f9584ddd46, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -960,6 +964,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: Petra
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1075,7 +1083,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 708fcf79609923b4e9e6ce3b42b9dfe6, type: 2}
+      objectReference: {fileID: 2100000, guid: c327733f108d544c5b9c3517d77b25c9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1266,6 +1274,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: Taj Mahal
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1381,7 +1393,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e0b56cc43c1e47842bd3f9df2b1a5861, type: 2}
+      objectReference: {fileID: 2100000, guid: 087f47b572bd24d5aa7453af3d237a5e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1400,6 +1412,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: Great Pyramid Giza
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1515,7 +1531,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1e3db1d90c2caa7469e728357df9b5e3, type: 2}
+      objectReference: {fileID: 2100000, guid: f78f641a3661247de82c8f8e9cfae202, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1534,6 +1550,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: Christ The Redeemer
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1649,7 +1669,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1e3db1d90c2caa7469e728357df9b5e3, type: 2}
+      objectReference: {fileID: 2100000, guid: 3e60ad2ac6e594cae98934b83587c5dc, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1733,6 +1753,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: Machu Picchu
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1848,7 +1872,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 708fcf79609923b4e9e6ce3b42b9dfe6, type: 2}
+      objectReference: {fileID: 2100000, guid: 8af34cb1bebfe4e99a20e1c5c7f12fdf, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1867,6 +1891,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 244674938}
     m_Modifications:
+    - target: {fileID: 102329735092377143, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_text
+      value: Colosseum
+      objectReference: {fileID: 0}
     - target: {fileID: 370577145990387013, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalPosition.y
       value: -1.9375
@@ -1982,7 +2010,7 @@ PrefabInstance:
     - target: {fileID: 4591027086022994299, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 09c121aa8be7be64383b032ed041a98a, type: 2}
+      objectReference: {fileID: 2100000, guid: af7426703f68a4e20aeda6ecb5cbf3b8, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
