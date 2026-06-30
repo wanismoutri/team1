@@ -288,3 +288,5 @@ fabric.properties
 # End of https://www.toptal.com/developers/gitignore/api/macos,unity,visualstudiocode,androidstudio,android
 Project2_ArtGallery_BurstDebugInformation_DoNotShip/tempburstlibs/arm64-v8a/lib_burst_generated.txt
 ProjectSettings/BurstAotSettings_StandaloneOSX.json
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectSettings.asset
